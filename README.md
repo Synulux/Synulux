@@ -33,7 +33,7 @@
   
   ## 🔹 Programming 🔹
   
-  Currently `(6/14/2023)` I have experience in the following languages
+  Currently `(6/14/2023)` I have experience in the following languages:
   
   **— JavaScript**<br>
   **— TypeScript**<br>
