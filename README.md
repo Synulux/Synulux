@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Synulux/Synulux/assets/133937431/61fc1200-3ed0-4807-bff3-eab054ea9571" alt="Banner" width="450" height="150" />
+  <img src="https://github.com/synulux/synulux/assets/133937431/8312adc0-4d7e-4b4c-9178-497ffacea542" alt="Banner" width="450" height="150" />
   <br>
   <br>
   
