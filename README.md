@@ -6,7 +6,7 @@ I'm Sandy Stone, also known as Synulux. As a programming enthusiast, I have a de
 
 Aside from my love for programming, I also enjoy keeping up with the latest trends and discovering new ways to enhance my skills and knowledge. Whether you want to know more about my interests or connect with me on a professional level, I am active on various social networks. Don't hesitate to reach out and connect with me, I would love to hear from you.
 
-## — Overview
+## Overview
 
 Here is a bit of information about me:
 
@@ -16,7 +16,7 @@ Here is a bit of information about me:
 - **Native language:** Spanish
 - **Known languages:** English (commonly used)
 
-## — Skills
+## Skills
 
 Surely I have some other skills that I have not yet been able to experience yet, however, here are some of my current ones:
 
