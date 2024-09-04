@@ -2,25 +2,28 @@
 
 # Hey there!
 
-I'm Sandy Stone, also known as Synulux. As a programming enthusiast, I have a deep passion for technology and all things related. My interest in this field has led me to explore a range of topics, from software development to the latest advancements in the tech industry.
+Hey there! I'm Sandy Stone, also known as Synulux. My love for programming and technology has been a big part of who I am. I've always been curious about how things work, and this curiosity has led me to dive deep into the world of computer science.
 
-Aside from my love for programming, I also enjoy keeping up with the latest trends and discovering new ways to enhance my skills and knowledge. Whether you want to know more about my interests or connect with me on a professional level, I am active on various social networks. Don't hesitate to reach out and connect with me, I would love to hear from you.
+Over the years, this passion has not only helped me build technical skills but has also been a huge part of my personal growth. I've explored many things, from creating simple backend interfaces to taking on more challenging projects. Each new challenge has taught me something valuable and helped me become better at what I do.
+
+I believe that my persistence, which started when I was young, and my willingness to face new challenges have been crucial to what I've achieved so far. These experiences have shaped me into the person I am today, and I treasure each one, knowing that the journey has been just as important as the results.
 
 ## Overview
 
-Here is a bit of information about me:
+I described a lot about myself in the previous paragraphs, so here's a summary with some extra details:
 
 - **Name:** Sandy Stone
-- **Usernames:** Synulux
+- **Username:** Synulux
 - **Native country:** Panama
 - **Native language:** Spanish
-- **Known languages:** English (commonly used)
+- **Known languages:** English (used primarily)
+- **Interests:** Technology & computer science
 
 ## Skills
 
-Surely I have some other skills that I have not yet been able to experience yet, however, here are some of my current ones:
+Day after day I try to improve my skills and also to look for new ways to improve myself. For now, some of my skills are:
 
-1. **Programming/coding**
-1. **Translation**
-1. **Interface designing & development**
+1. **Programming** (approximately 6 years since `09/04/2024`)
+1. **Interface designing** (in conjunction with programming)
 1. **Managing projects**
+1. **Translation**
