@@ -2,7 +2,7 @@
 
 # Hey there!
 
-Hey there! I'm Sandy Stone, also known as Synulux. My love for programming and technology has been a big part of who I am. I've always been curious about how things work, and this curiosity has led me to dive deep into the world of computer science.
+I'm Sandy Stone, also known as Synulux. My love for programming and technology has been a big part of who I am. I've always been curious about how things work, and this curiosity has led me to dive deep into the world of computer science.
 
 Over the years, this passion has not only helped me build technical skills but has also been a huge part of my personal growth. I've explored many things, from creating simple backend interfaces to taking on more challenging projects. Each new challenge has taught me something valuable and helped me become better at what I do.
 
